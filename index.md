@@ -8,7 +8,7 @@ Skills:
 Java
 
 Experience:
-Software Engineer II - Peraton /n
+Software Engineer II - Peraton
 Software Developer III - HPE/DXC
 
 Education:
