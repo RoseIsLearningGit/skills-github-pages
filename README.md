@@ -14,7 +14,7 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
 </header>
 
 <!--
-  <<< Author notes: Step 4 >>>
+  <<< Author notes: Step X >>>
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
   Historic note: previous version checked the file path. Previous version checked the front matter formatting.
