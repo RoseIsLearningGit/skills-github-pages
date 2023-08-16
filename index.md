@@ -1,8 +1,6 @@
 ---
-title: Welcome to my blog
+title: Resume
 ---
-
-My resume is below:
 
 Software Engineer\Programmer
 
@@ -10,7 +8,7 @@ Skills:
 Java
 
 Experience:
-Software Engineer II - Peraton
+Software Engineer II - Peraton /n
 Software Developer III - HPE/DXC
 
 Education:
